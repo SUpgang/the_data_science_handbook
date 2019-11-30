@@ -1,4 +1,5 @@
 # ignore the following directories
-**/__pycache__
+**/__pycache__/
 # ignore dataset directories
-**/datasets
+**/datasets/
+**/.idea/
