@@ -1,0 +1,4 @@
+# ignore the following directories
+**/__pycache__
+# ignore dataset directories
+**/datasets
